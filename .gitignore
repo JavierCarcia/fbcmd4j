@@ -2,7 +2,7 @@
 *.class
 *.swp 
 
-# netbeans
+# Archivos de proyecto netbeans
 nbproject/private/
 build/
 nbbuild/
@@ -11,7 +11,7 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
-# eclipse
+# Archivos de proyecto eclipse
 *.pydevproject
 .project
 .metadata
